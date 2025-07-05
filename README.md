@@ -14,7 +14,7 @@ To analyze the usage patterns, preferences, and perceptions of AI tools among In
 
 ## 📊 Dashboard Preview
 
-![AI Tools Dashboard](Dashboard 1 png.png)
+![AI Tools Dashboard](Dashboard 1 png)
 
 
 ## 📁 Project Structure
