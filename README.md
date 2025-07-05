@@ -12,10 +12,6 @@ To analyze the usage patterns, preferences, and perceptions of AI tools among In
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Preview]("Dashboard%201%20png.png")
-
 ## 📁 Project Structure
 
 AI_Tools_Usage_India/
