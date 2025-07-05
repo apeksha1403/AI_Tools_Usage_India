@@ -20,9 +20,6 @@ AI_Tools_Usage_India/
 ├── Dashboard_AI_Tools_Usage.pdf # Tableau dashboard (PDF)
 ├── README.md # Project overview and details
 
-yaml
-Copy
-Edit
 
 ---
 
